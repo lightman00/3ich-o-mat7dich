@@ -1,0 +1,24 @@
+body{
+    margin: 0px;
+    width: 100%;
+    background-color: gainsboro;
+    
+}
+.container{
+    margin: 5px;
+}
+.header{
+    height:50px;
+    background-color:skyblue;
+}
+.main{
+    height:300px;
+    background-color: white;
+    color: blue;
+    
+    
+}
+.footer{
+    height: 30px;
+    background-color: skyblue;
+}
